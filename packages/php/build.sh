@@ -5,7 +5,7 @@ TERMUX_PKG_LICENSE_FILE=LICENSE
 TERMUX_PKG_MAINTAINER="@termux"
 TERMUX_PKG_VERSION=8.0.7
 TERMUX_PKG_SRCURL=https://github.com/php/php-src/archive/php-${TERMUX_PKG_VERSION}.tar.gz
-TERMUX_PKG_SHA256=ddf7a059cf5cd26d00bc5493f1ca2242172408c0dcc4acdba6ef8952f8bb5a38
+TERMUX_PKG_SHA256=e560986dd18a74bd9bb336f31f24f342f97265a58b179d41ef1490dedb37ff2a
 # Build native php for phar to build (see pear-Makefile.frag.patch):
 TERMUX_PKG_HOSTBUILD=true
 # Build the native php without xml support as we only need phar:
