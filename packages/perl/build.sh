@@ -10,8 +10,8 @@ TERMUX_PKG_MAINTAINER="@termux"
 # - psutils
 # - subversion
 TERMUX_PKG_VERSION=(5.40.0
-                    c740348f357396327a9795d3e8323bafd0fe8a5c7835fc1cbaba0cc8dfe7161f)
-TERMUX_PKG_SHA256=(a0a31534451eb7b83c7d6594a497543a54d488bc90ca00f5e34762577f40655e
+                    388d0eedbfc3864bbbf7ad7f965064d99cac5aaa)
+TERMUX_PKG_SHA256=(c740348f357396327a9795d3e8323bafd0fe8a5c7835fc1cbaba0cc8dfe7161f
                    a975c196075623f0dc94f57d00633b0d18ed08e3d85a3ea19d34ece4ec1a94c1)
 TERMUX_PKG_SRCURL=(http://www.cpan.org/src/5.0/perl-${TERMUX_PKG_VERSION}.tar.gz
                    https://github.com/arsv/perl-cross/archive/${TERMUX_PKG_VERSION[1]}.tar.gz)
