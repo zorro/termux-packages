@@ -15,7 +15,7 @@ TERMUX_PKG_SHA256=(c740348f357396327a9795d3e8323bafd0fe8a5c7835fc1cbaba0cc8dfe71
                    ecc37b41a60cc3c030413a960cc386455f70c43781c6333d1fcaad02ece32ea8)
 TERMUX_PKG_SRCURL=(http://www.cpan.org/src/5.0/perl-${TERMUX_PKG_VERSION}.tar.gz
 #                   https://github.com/arsv/perl-cross/archive/${TERMUX_PKG_VERSION[1]}.tar.gz)
-        		https://github.com/arsv/perl-cross/releases/download/${TERMUX_PKG_VERSION[1]}/perl-cross-${TERMUX_PKG_VERSION[1]}.tar.gz)
+			https://github.com/arsv/perl-cross/releases/download/${TERMUX_PKG_VERSION[1]}/perl-cross-${TERMUX_PKG_VERSION[1]}.tar.gz)
 TERMUX_PKG_DEPENDS=libandroid-utimes
 TERMUX_PKG_BUILD_IN_SRC=true
 TERMUX_PKG_MAKE_PROCESSES=1
